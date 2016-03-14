@@ -1,0 +1,29 @@
+{
+  "name": "jquery-time-autocomplete",
+  "description": "A time autocomplete plugin similar to how Google Calendar's time autocomplete works.",
+  "main": "./src/jquery.timeAutocomplete.js",
+  "authors": [
+    "Jordan Boesch"
+  ],
+  "dependencies": {
+    "jquery": "~1.4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "autocomplete",
+    "plugins",
+    "time"
+  ],
+  "homepage": "https://github.com/semy/jquery-time-autocomplete",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
