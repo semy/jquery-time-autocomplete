@@ -2,9 +2,9 @@
   "name": "jquery-time-autocomplete",
   "description": "A time autocomplete plugin similar to how Google Calendar's time autocomplete works.",
   "main": [
-	"./src/formatters/ampm.js",
-  	"./src/formatters/24hr.js",
-  	"./src/jquery.timeAutocomplete.js"
+	"./0jquery.timeAutocomplete.min.js",
+	"./src/formatters/24hr.js",
+	"./src/formatters/ampm.js"
   ],
   "authors": [
     "Jordan Boesch"
